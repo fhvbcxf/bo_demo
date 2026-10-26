@@ -4,7 +4,6 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="38">
             <item index="0" class="java.lang.String" itemvalue="protobuf" />
             <item index="1" class="java.lang.String" itemvalue="rsa" />
             <item index="2" class="java.lang.String" itemvalue="greenlet" />
@@ -40,9 +39,6 @@
             <item index="32" class="java.lang.String" itemvalue="pytz" />
             <item index="33" class="java.lang.String" itemvalue="msgpack" />
             <item index="34" class="java.lang.String" itemvalue="google-auth" />
-            <item index="35" class="java.lang.String" itemvalue="PyJWT" />
-            <item index="36" class="java.lang.String" itemvalue="httpx" />
-            <item index="37" class="java.lang.String" itemvalue="app-store-server-library" />
           </list>
         </value>
       </option>
@@ -51,7 +47,6 @@
       <option name="ignoredErrors">
         <list>
           <option value="N801" />
-          <option value="N802" />
         </list>
       </option>
     </inspection_tool>
